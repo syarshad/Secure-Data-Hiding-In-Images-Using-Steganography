@@ -40,9 +40,9 @@ python main.py
 ```
 
 ## Project Features
-**1. Modular Design:** Each component has a specific responsibility
-**2. Password Protection:** Optional encryption for secure message hiding
-**3. User-Friendly GUI:** Clean interfaces for both encoding and decoding
-**4. Error Handling:** Comprehensive validation and error messages
-**5. Standalone Components:** Encode and decode can work independently
+**1. **Modular Design:**** Each component has a specific responsibility
+**2. **Password Protection:**** Optional encryption for secure message hiding
+**3. **User-Friendly GUI:**** Clean interfaces for both encoding and decoding
+**4. **Error Handling:**** Comprehensive validation and error messages
+**5. **Standalone Components:**** Encode and decode can work independently
 
