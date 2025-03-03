@@ -34,10 +34,9 @@ To Decode a Message:
 ```
 python decode_gui.py
 ```
-To open a menu that lets you choose between encoding and decoding"
+To open a menu that lets you choose between encoding and decoding:
 ```
 python main.py
-
 ```
 
 ## Project Features
